@@ -20,6 +20,8 @@ https://medium.com/@chandrashekharsingh25/securing-asp-net-core-web-api-with-jwt
 
 https://medium.com/@ahmedmohamedelahmar/implement-api-gateway-with-token-handler-pattern-using-net-redis-and-keycloak-38250bfbd733
 
+https://medium.com/@abu7midan/automateyour-deployment-using-azure-devops-ci-cd-pipeline-in-13-minutes-a091372d74d9
+
 https://github.com/gtechsltn/ApiGateway
 
 https://github.com/Redestros/ApiGateway/
