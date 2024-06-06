@@ -1,4 +1,6 @@
-### Authentication and Authorization in asp.net core
+### Authentication and Authorization in ASP.NET Core
+
+https://medium.com/@KumarHalder/openidconnect-implementation-in-web-apps-in-asp-net-web-api-6ebefca85a37
 
 Backend project in asp.net core on authentications. This project demonstrates different authentication and authorizations in asp.net core.
 
